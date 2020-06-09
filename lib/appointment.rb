@@ -14,11 +14,11 @@ class Appointment
     @@all 
   end
   
-  def patient
-    self.patient
-  end
+  # def patient
+  #   self.patient
+  # end
   
-  def doctor
-    self.doctor 
-  end
+  # def doctor
+  #   self.doctor 
+  # end
 end
